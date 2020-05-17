@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+
+@media (max-width: 800px) {
+  main img.main {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+}
